@@ -3,5 +3,8 @@
 
     <string name="app_name">Lollipop Exercise</string>
     <string name="title_activity_details">DetailsActivity</string>
+    <string name="menu_item_add">Add</string>
+    <string name="snackbar_added">Contact Added!</string>
+    <string name="snackbar_undo">Undo</string>
 
 </resources>
